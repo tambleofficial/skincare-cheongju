@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://skincare-cheongju.pages.dev/sitemap.xml
